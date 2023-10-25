@@ -1,7 +1,5 @@
-👋 Hi, I’m Jonatas Nahorny
-💻 I work as a Front-end Developer.
-🌱 I'm currently working on an establishment system with @OnDlineSolutions
-🎈 I’m currently learning Angular Framework, TypeScript...
+<h1>About me<h1>
+👋 Hi, I’m Jonatas Nahorny <br> 💻 I work as a Front-end Developer. <br> 🌱 I'm currently working on an establishment system with @OnDlineSolutions <br>🎈 I’m currently learning Angular Framework, TypeScript...
 
 
 <!---
