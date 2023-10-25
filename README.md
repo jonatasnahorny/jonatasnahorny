@@ -1,4 +1,3 @@
-<h1>About me<h1>
 👋 Hi, I’m Jonatas Nahorny <br> 💻 I work as a Front-end Developer. <br> 🌱 I'm currently working on an establishment system with @OnDlineSolutions <br>🎈 I’m currently learning Angular Framework, TypeScript...
 
 
